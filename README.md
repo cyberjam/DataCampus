@@ -49,17 +49,21 @@
 
 
 ###### 우수상 수상 
-[NEWS](https://news.mt.co.kr/mtview.php?no=2020110312047447804) 
+
+[NEWS](https://news.mt.co.kr/mtview.php?no=2020110312047447804)
+
 [NEWS PDF](https://github.com/cyberjam/DataCampus/blob/master/article_contest.pdf) 
 
 
-![alt text](https://github.com/cyberjam/DataCampus/blob/master/yolous0.png?raw=true)
+![alt text](https://github.com/cyberjam/DataCampus/blob/master/yolous0.png?raw=true){:height="auto" width="500px"}
 
 
 ###### 지역 언론 사회문제 관련 인터뷰 
-[NEWS](http://www.jbnews.com/news/articleView.html?idxno=1318914) 
+
+[NEWS](http://www.jbnews.com/news/articleView.html?idxno=1318914)
+
 [NEWS PDF](https://github.com/cyberjam/DataCampus/blob/master/article_interview.pdf) 
 
-![alt text](https://github.com/cyberjam/DataCampus/blob/master/yolous2.png?raw=true)
+![alt text](https://github.com/cyberjam/DataCampus/blob/master/yolous2.png?raw=true){:height="auto" width="500px"}
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cyberjam/darknet_submit/blob/master/YOLOxDetectingVerJam_submit.ipynb) YOLOxDetectingVerJam_submit.ipynb
