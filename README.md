@@ -42,20 +42,20 @@
 ##### imageDeeplearning snippet
 ###### contest - custom image detecting
 
-####### My team
+###### My team
 
 ![alt text](https://github.com/cyberjam/DataCampus/blob/master/yolous.png?raw=true)
 
 
 
-####### 우수상 수상 [NEWS](https://news.mt.co.kr/mtview.php?no=2020110312047447804) 
-[embed]https://github.com/cyberjam/DataCampus/blob/master/article_contest.pdf]
+###### 우수상 수상 [NEWS](https://news.mt.co.kr/mtview.php?no=2020110312047447804) 
+[embed]https://github.com/cyberjam/DataCampus/blob/master/article_contest.pdf[/embed]
 
 ![alt text](https://github.com/cyberjam/DataCampus/blob/master/yolous0.png?raw=true)
 
 
-####### 지역 언론 사회문제 관련 인터뷰 [NEWS](http://www.jbnews.com/news/articleView.html?idxno=1318914) 
-[embed]https://github.com/cyberjam/DataCampus/blob/master/article_interview.pdf]
+###### 지역 언론 사회문제 관련 인터뷰 [NEWS](http://www.jbnews.com/news/articleView.html?idxno=1318914) 
+[embed]https://github.com/cyberjam/DataCampus/blob/master/article_interview.pdf[/embed]
 
 ![alt text](https://github.com/cyberjam/DataCampus/blob/master/yolous2.png?raw=true)
 
