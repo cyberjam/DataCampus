@@ -44,4 +44,6 @@
 
 ![alt text](https://github.com/cyberjam/DataCampus/blob/master/yolous.png?raw=true)
 
+[![NEWS1]](https://news.mt.co.kr/mtview.php?no=2020110312047447804) YOLOxDetectingVerJam_submit.ipynb
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cyberjam/darknet_submit/blob/master/YOLOxDetectingVerJam_submit.ipynb) YOLOxDetectingVerJam_submit.ipynb
