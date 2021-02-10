@@ -44,32 +44,26 @@
 
 ###### My team
 
-![alt text](https://github.com/cyberjam/DataCampus/blob/master/yolous.png?raw=true)
+<img src="https://github.com/cyberjam/DataCampus/blob/master/yolous.png?raw=true" width="700" height="auto"> 
+
 
 
 
 ###### 우수상 수상 
 
-[NEWS](https://news.mt.co.kr/mtview.php?no=2020110312047447804)
+[NEWS](https://news.mt.co.kr/mtview.php?no=2020110312047447804) | [PDF](https://github.com/cyberjam/DataCampus/blob/master/article_contest.pdf) 
 
-[NEWS PDF](https://github.com/cyberjam/DataCampus/blob/master/article_contest.pdf) 
-
-<a href="https://news.mt.co.kr/mtview.php?no=2020110312047447804" target="_blank">
+<a href="https://news.mt.co.kr/mtview.php?no=2020110312047447804">
 <img src="https://github.com/cyberjam/DataCampus/blob/master/yolous0.png?raw=true" width="700" height="auto"> 
 </a>
 
 
 
-<a href="https://www.w3schools.com" target="_blank">Visit W3Schools.com!</a> 
-
-
 ###### 지역 언론 사회문제 관련 인터뷰 
 
-[NEWS](http://www.jbnews.com/news/articleView.html?idxno=1318914)
+[NEWS](http://www.jbnews.com/news/articleView.html?idxno=1318914) | [PDF](https://github.com/cyberjam/DataCampus/blob/master/article_interview.pdf) 
 
-[NEWS PDF](https://github.com/cyberjam/DataCampus/blob/master/article_interview.pdf) 
-
-<a href="http://www.jbnews.com/news/articleView.html?idxno=1318914" target="_blank">
+<a href="http://www.jbnews.com/news/articleView.html?idxno=1318914">
 <img src="https://github.com/cyberjam/DataCampus/blob/master/yolous2.png?raw=true" width="700" height="auto"> 
 </a>
 
