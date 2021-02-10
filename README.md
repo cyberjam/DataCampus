@@ -14,8 +14,7 @@
 
 
 ##### Python snippet
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cyberjam/DataCampus/blob/master/김재민02py연산흐름.ipynb) 
-###### 김재민02py연산흐름.ipynb 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cyberjam/DataCampus/blob/master/김재민02py연산흐름.ipynb)   ###### 김재민02py연산흐름.ipynb 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cyberjam/DataCampus/blob/master/김재민03py정의함수.ipynb) 
 ###### 김재민03py정의함수.ipynb 
