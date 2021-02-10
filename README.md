@@ -44,6 +44,8 @@
 
 ![alt text](https://github.com/cyberjam/DataCampus/blob/master/yolous.png?raw=true)
 
-[![NEWS1]](https://news.mt.co.kr/mtview.php?no=2020110312047447804) YOLOxDetectingVerJam_submit.ipynb
+![NEWS](https://news.mt.co.kr/mtview.php?no=2020110312047447804) 우수상 수상
+
+![NEWS](http://www.jbnews.com/news/articleView.html?idxno=1318914) 지역 언론 사회문제 관련 인터뷰
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cyberjam/darknet_submit/blob/master/YOLOxDetectingVerJam_submit.ipynb) YOLOxDetectingVerJam_submit.ipynb
