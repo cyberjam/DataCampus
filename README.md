@@ -56,19 +56,19 @@
 
 ###### 우수상 수상 
 
-[NEWS](https://news.mt.co.kr/mtview.php?no=2020110312047447804) | [PDF](https://github.com/cyberjam/DataCampus/blob/master/article_contest.pdf) 
-
 <a href="https://news.mt.co.kr/mtview.php?no=2020110312047447804">
 <img src="https://github.com/cyberjam/DataCampus/blob/master/yolous0.png?raw=true" width="700" height="auto"> 
 </a>
 
+[NEWS](https://news.mt.co.kr/mtview.php?no=2020110312047447804) | [PDF](https://github.com/cyberjam/DataCampus/blob/master/article_contest.pdf) 
 
 
 ###### 지역 언론 사회문제 관련 인터뷰 
-
-[NEWS](http://www.jbnews.com/news/articleView.html?idxno=1318914) | [PDF](https://github.com/cyberjam/DataCampus/blob/master/article_interview.pdf) 
 
 <a href="http://www.jbnews.com/news/articleView.html?idxno=1318914">
 <img src="https://github.com/cyberjam/DataCampus/blob/master/yolous2.png?raw=true" width="700" height="auto"> 
 </a>
 
+[NEWS](http://www.jbnews.com/news/articleView.html?idxno=1318914) | [PDF](https://github.com/cyberjam/DataCampus/blob/master/article_interview.pdf) 
+
+au revoir!
