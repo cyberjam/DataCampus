@@ -35,11 +35,13 @@
 
 
 ##### ML snippet 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]("https://colab.research.google.com/github/cyberjam/DataCampus/blob/master/machine%20learning.ipynb") 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cyberjam/DataCampus/blob/master/machine%20learning.ipynb) 
 ###### machine learning.ipynb 
 
 
 ##### imageProcessing snippet 
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cyberjam/DataCampus/blob/master/imageProcessing.ipynb) 
 ###### machine learning.ipynb 
 
