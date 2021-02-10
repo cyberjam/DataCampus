@@ -54,7 +54,7 @@
 
 [NEWS PDF](https://github.com/cyberjam/DataCampus/blob/master/article_contest.pdf) 
 
-<a href="https://news.mt.co.kr/mtview.php?no=2020110312047447804">
+<a href="https://news.mt.co.kr/mtview.php?no=2020110312047447804" target="_blank">
 <img src="https://github.com/cyberjam/DataCampus/blob/master/yolous0.png?raw=true" width="700" height="auto"> 
 </a>
 
@@ -64,8 +64,8 @@
 
 [NEWS PDF](https://github.com/cyberjam/DataCampus/blob/master/article_interview.pdf) 
 
-[![이미지](https://github.com/cyberjam/DataCampus/blob/master/yolous2.png?raw=true)](http://www.jbnews.com/news/articleView.html?idxno=1318914)  
-
+<a href="http://www.jbnews.com/news/articleView.html?idxno=1318914" target="_blank">
 <img src="https://github.com/cyberjam/DataCampus/blob/master/yolous2.png?raw=true" width="700" height="auto"> 
+</a>
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cyberjam/darknet_submit/blob/master/YOLOxDetectingVerJam_submit.ipynb) YOLOxDetectingVerJam_submit.ipynb
