@@ -40,7 +40,12 @@
 
 
 ##### imageDeeplearning snippet
-###### contest - custom image detecting
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cyberjam/darknet_submit/blob/master/YOLOxDetectingVerJam_submit.ipynb) YOLOxDetectingVerJam_submit.ipynb
+
+
+
+##### contest - custom image detecting
 
 ###### My team
 
@@ -67,4 +72,3 @@
 <img src="https://github.com/cyberjam/DataCampus/blob/master/yolous2.png?raw=true" width="700" height="auto"> 
 </a>
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cyberjam/darknet_submit/blob/master/YOLOxDetectingVerJam_submit.ipynb) YOLOxDetectingVerJam_submit.ipynb
