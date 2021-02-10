@@ -35,7 +35,7 @@
 
 
 ##### ML snippet 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]("https://colab.research.google.com/github/cyberjam/DataCampus/blob/master/machine learning.ipynb") 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]("https://colab.research.google.com/github/cyberjam/DataCampus/blob/master/machine+learning.ipynb") 
 ###### machine learning.ipynb 
 
 
