@@ -54,9 +54,9 @@
 
 [NEWS PDF](https://github.com/cyberjam/DataCampus/blob/master/article_contest.pdf) 
 
-
-![alt text](https://github.com/cyberjam/DataCampus/blob/master/yolous0.png?raw=true)
-<img src="https://github.com/cyberjam/DataCampus/blob/master/yolous0.png?raw=true" width="500" height="auto"> 
+<a href="https://news.mt.co.kr/mtview.php?no=2020110312047447804">
+<img src="https://github.com/cyberjam/DataCampus/blob/master/yolous0.png?raw=true" width="700" height="auto"> 
+</a>
 
 ###### 지역 언론 사회문제 관련 인터뷰 
 
@@ -66,8 +66,6 @@
 
 [![이미지](https://github.com/cyberjam/DataCampus/blob/master/yolous2.png?raw=true)](http://www.jbnews.com/news/articleView.html?idxno=1318914)  
 
-<img src="https://github.com/cyberjam/DataCampus/blob/master/yolous2.png?raw=true" width="500" height="auto"> 
-
-![alt text](https://github.com/cyberjam/DataCampus/blob/master/yolous2.png?raw=true){:height="auto" width="500px"}
+<img src="https://github.com/cyberjam/DataCampus/blob/master/yolous2.png?raw=true" width="700" height="auto"> 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cyberjam/darknet_submit/blob/master/YOLOxDetectingVerJam_submit.ipynb) YOLOxDetectingVerJam_submit.ipynb
